@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Henrique Nascimento Damacena
+# 💻 Henrique Nascimento Damacena
 
 **`Estudante FullStack`**
 
